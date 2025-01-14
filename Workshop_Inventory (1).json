@@ -1,0 +1,292 @@
+{
+    "Woodshop": [
+        {
+            "Tool/Equipment": "Clamps",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Drills",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Track Saw",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Edge Bander",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Hand Sanders",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Dust Extractor",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Router",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Mortise Jigs",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Chisels",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Sliding Table Saw",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Table Saw",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Bandsaw",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Planer",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Drum Sander",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Miter Saw",
+            "Category": "Woodshop"
+        },
+        {
+            "Tool/Equipment": "Jigs",
+            "Category": "Woodshop"
+        }
+    ],
+    "Powder Coating Area": [
+        {
+            "Tool/Equipment": "Powder Coating Racks",
+            "Category": "Powder Coating Area"
+        },
+        {
+            "Tool/Equipment": "Hooks",
+            "Category": "Powder Coating Area"
+        },
+        {
+            "Tool/Equipment": "Powder Samples Wall",
+            "Category": "Powder Coating Area"
+        },
+        {
+            "Tool/Equipment": "Powder Spray Gun",
+            "Category": "Powder Coating Area"
+        },
+        {
+            "Tool/Equipment": "Air Compressor",
+            "Category": "Powder Coating Area"
+        },
+        {
+            "Tool/Equipment": "Propane Tank",
+            "Category": "Powder Coating Area"
+        },
+        {
+            "Tool/Equipment": "Acetone Sprayer",
+            "Category": "Powder Coating Area"
+        },
+        {
+            "Tool/Equipment": "Testing Swatches",
+            "Category": "Powder Coating Area"
+        },
+        {
+            "Tool/Equipment": "Powder Wall",
+            "Category": "Powder Coating Area"
+        }
+    ],
+    "Metalshop": [
+        {
+            "Tool/Equipment": "Chop Saw",
+            "Category": "Metalshop"
+        },
+        {
+            "Tool/Equipment": "Grinder",
+            "Category": "Metalshop"
+        },
+        {
+            "Tool/Equipment": "Welder",
+            "Category": "Metalshop"
+        },
+        {
+            "Tool/Equipment": "Metal Sanding Table",
+            "Category": "Metalshop"
+        },
+        {
+            "Tool/Equipment": "Sheet Metal Storage",
+            "Category": "Metalshop"
+        },
+        {
+            "Tool/Equipment": "Hex Keys",
+            "Category": "Metalshop"
+        }
+    ],
+    "Finishing Room": [
+        {
+            "Tool/Equipment": "Drying Rack",
+            "Category": "Finishing Room"
+        },
+        {
+            "Tool/Equipment": "HPLV Sprayer",
+            "Category": "Finishing Room"
+        },
+        {
+            "Tool/Equipment": "Lacquers and Patinas",
+            "Category": "Finishing Room"
+        },
+        {
+            "Tool/Equipment": "Rubio Finish",
+            "Category": "Finishing Room"
+        },
+        {
+            "Tool/Equipment": "Osmo Finish",
+            "Category": "Finishing Room"
+        },
+        {
+            "Tool/Equipment": "Paint Brushes",
+            "Category": "Finishing Room"
+        },
+        {
+            "Tool/Equipment": "Steel Wool",
+            "Category": "Finishing Room"
+        },
+        {
+            "Tool/Equipment": "Polish Waxes",
+            "Category": "Finishing Room"
+        },
+        {
+            "Tool/Equipment": "Acrylic Paint",
+            "Category": "Finishing Room"
+        },
+        {
+            "Tool/Equipment": "Plastic Sheets",
+            "Category": "Finishing Room"
+        }
+    ],
+    "Break Room": [
+        {
+            "Tool/Equipment": "Water Cooler",
+            "Category": "Break Room"
+        },
+        {
+            "Tool/Equipment": "Microwave",
+            "Category": "Break Room"
+        },
+        {
+            "Tool/Equipment": "Coffee Machine",
+            "Category": "Break Room"
+        },
+        {
+            "Tool/Equipment": "Fridge",
+            "Category": "Break Room"
+        },
+        {
+            "Tool/Equipment": "First Aid Kit",
+            "Category": "Break Room"
+        },
+        {
+            "Tool/Equipment": "Team Whiteboard",
+            "Category": "Break Room"
+        },
+        {
+            "Tool/Equipment": "Paper Towels",
+            "Category": "Break Room"
+        }
+    ],
+    "Office": [
+        {
+            "Tool/Equipment": "3D Printer",
+            "Category": "Office"
+        },
+        {
+            "Tool/Equipment": "Laser Printer",
+            "Category": "Office"
+        },
+        {
+            "Tool/Equipment": "Apple Computer",
+            "Category": "Office"
+        },
+        {
+            "Tool/Equipment": "All-in-One Printer",
+            "Category": "Office"
+        },
+        {
+            "Tool/Equipment": "Clipboard",
+            "Category": "Office"
+        },
+        {
+            "Tool/Equipment": "Notice Board",
+            "Category": "Office"
+        },
+        {
+            "Tool/Equipment": "Dry Erase Labels",
+            "Category": "Office"
+        }
+    ],
+    "Showroom": [
+        {
+            "Tool/Equipment": "Showroom Furniture",
+            "Category": "Showroom"
+        },
+        {
+            "Tool/Equipment": "Team Brainstorming Board",
+            "Category": "Showroom"
+        }
+    ],
+    "Switzerland": [
+        {
+            "Tool/Equipment": "Forklift",
+            "Category": "Switzerland"
+        },
+        {
+            "Tool/Equipment": "Car Jacks",
+            "Category": "Switzerland"
+        },
+        {
+            "Tool/Equipment": "Pallet Racks",
+            "Category": "Switzerland"
+        },
+        {
+            "Tool/Equipment": "Storage Carts",
+            "Category": "Switzerland"
+        },
+        {
+            "Tool/Equipment": "Cleaning Supplies",
+            "Category": "Switzerland"
+        },
+        {
+            "Tool/Equipment": "Pressure Washer",
+            "Category": "Switzerland"
+        },
+        {
+            "Tool/Equipment": "Drums of Acetone",
+            "Category": "Switzerland"
+        }
+    ],
+    "Sandblasting and Acid Area": [
+        {
+            "Tool/Equipment": "Blast Room",
+            "Category": "Sandblasting and Acid Area"
+        },
+        {
+            "Tool/Equipment": "Blast Pod",
+            "Category": "Sandblasting and Acid Area"
+        },
+        {
+            "Tool/Equipment": "Sand Blasting Abrasives",
+            "Category": "Sandblasting and Acid Area"
+        },
+        {
+            "Tool/Equipment": "Safety Gear",
+            "Category": "Sandblasting and Acid Area"
+        }
+    ]
+}
