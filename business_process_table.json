@@ -1,0 +1,72 @@
+[
+    {
+        "Category": "Material Sourcing",
+        "Activity": "Choosing high-quality wood, metal, finishes",
+        "Suggested Post Ideas": "Photos/videos of raw materials; Explain why you select materials; “Day at the supplier” posts.",
+        "Target Audience": "Clients, Designers",
+        "Post Format": "Photo/Video",
+        "Key Message": "Emphasizing quality and sourcing expertise",
+        "Engagement CTA": "What materials excite you?",
+        "Emotional Appeal": "Trust, Curiosity",
+        "Frequency": "Weekly",
+        "Resources Needed": "Supplier access, camera setup",
+        "Estimated Effort": "Medium",
+        "Metrics to Track": "Likes, Shares, Comments"
+    },
+    {
+        "Category": "Design and Planning",
+        "Activity": "Sketching concepts, client discussions",
+        "Suggested Post Ideas": "Time-lapse of sketching a design; 3D rendering screenshots; “From concept to creation” posts.",
+        "Target Audience": "Clients, Designers",
+        "Post Format": "Time-Lapse",
+        "Key Message": "Creativity and collaboration",
+        "Engagement CTA": "What design catches your eye?",
+        "Emotional Appeal": "Curiosity",
+        "Frequency": "Monthly",
+        "Resources Needed": "CAD tools, creative inputs",
+        "Estimated Effort": "Medium",
+        "Metrics to Track": "Engagement Rate"
+    },
+    {
+        "Category": "Fabrication and Production",
+        "Activity": "Cutting, sanding, assembling",
+        "Suggested Post Ideas": "Videos of tools in action; “The making of” time-lapse posts; Close-ups of intricate craftsmanship.",
+        "Target Audience": "Clients, Designers",
+        "Post Format": "Video",
+        "Key Message": "Mastery in precision and tools",
+        "Engagement CTA": "Which part of the process fascinates you?",
+        "Emotional Appeal": "Awe",
+        "Frequency": "Weekly",
+        "Resources Needed": "Workshop access, video equipment",
+        "Estimated Effort": "High",
+        "Metrics to Track": "Views, Comments"
+    },
+    {
+        "Category": "Finishing",
+        "Activity": "Powder coating, quality control",
+        "Suggested Post Ideas": "Before-and-after finishing shots; Tutorials on achieving a flawless finish.",
+        "Target Audience": "Clients",
+        "Post Format": "Video/Photo",
+        "Key Message": "Attention to detail, professionalism",
+        "Engagement CTA": "What’s your favorite finish?",
+        "Emotional Appeal": "Inspiration",
+        "Frequency": "Weekly",
+        "Resources Needed": "Finishing materials, setup",
+        "Estimated Effort": "High",
+        "Metrics to Track": "Reach, Likes"
+    },
+    {
+        "Category": "Custom Orders",
+        "Activity": "Collaborating with clients",
+        "Suggested Post Ideas": "Testimonials from clients; Videos of tailored designs being created.",
+        "Target Audience": "Clients",
+        "Post Format": "Video/Photo",
+        "Key Message": "Tailored solutions for unique needs",
+        "Engagement CTA": "What’s your dream custom piece?",
+        "Emotional Appeal": "Pride",
+        "Frequency": "Monthly",
+        "Resources Needed": "Custom tools, client feedback",
+        "Estimated Effort": "Medium",
+        "Metrics to Track": "Leads, Shares"
+    }
+]
