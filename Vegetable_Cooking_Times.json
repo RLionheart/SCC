@@ -1,0 +1,107 @@
+[
+    {
+        "vegetable": "Carrots",
+        "cooking_method": "Boiling",
+        "cooking_time_minutes": 8,
+        "temperature_fahrenheit": null,
+        "notes": "Cut into slices for even cooking."
+    },
+    {
+        "vegetable": "Carrots",
+        "cooking_method": "Roasting",
+        "cooking_time_minutes": 25,
+        "temperature_fahrenheit": 400,
+        "notes": "Toss with olive oil and seasonings."
+    },
+    {
+        "vegetable": "Broccoli",
+        "cooking_method": "Steaming",
+        "cooking_time_minutes": 5,
+        "temperature_fahrenheit": null,
+        "notes": "Keep florets evenly sized."
+    },
+    {
+        "vegetable": "Broccoli",
+        "cooking_method": "Roasting",
+        "cooking_time_minutes": 15,
+        "temperature_fahrenheit": 425,
+        "notes": "Add garlic for extra flavor."
+    },
+    {
+        "vegetable": "Potatoes (Cubed)",
+        "cooking_method": "Boiling",
+        "cooking_time_minutes": 10,
+        "temperature_fahrenheit": null,
+        "notes": "Great for mashing or salads."
+    },
+    {
+        "vegetable": "Potatoes (Whole)",
+        "cooking_method": "Baking",
+        "cooking_time_minutes": 45,
+        "temperature_fahrenheit": 375,
+        "notes": "Pierce with a fork before baking."
+    },
+    {
+        "vegetable": "Spinach",
+        "cooking_method": "Saut\u00e9ing",
+        "cooking_time_minutes": 3,
+        "temperature_fahrenheit": null,
+        "notes": "Use a bit of oil or butter."
+    },
+    {
+        "vegetable": "Spinach",
+        "cooking_method": "Steaming",
+        "cooking_time_minutes": 1,
+        "temperature_fahrenheit": null,
+        "notes": "Wilts quickly."
+    },
+    {
+        "vegetable": "Zucchini",
+        "cooking_method": "Grilling",
+        "cooking_time_minutes": 5,
+        "temperature_fahrenheit": null,
+        "notes": "Slice lengthwise for best results."
+    },
+    {
+        "vegetable": "Zucchini",
+        "cooking_method": "Saut\u00e9ing",
+        "cooking_time_minutes": 4,
+        "temperature_fahrenheit": null,
+        "notes": "Avoid overcrowding the pan."
+    },
+    {
+        "vegetable": "Cauliflower",
+        "cooking_method": "Roasting",
+        "cooking_time_minutes": 25,
+        "temperature_fahrenheit": 400,
+        "notes": "Season with paprika or curry powder."
+    },
+    {
+        "vegetable": "Asparagus",
+        "cooking_method": "Boiling",
+        "cooking_time_minutes": 3,
+        "temperature_fahrenheit": null,
+        "notes": "Trim woody ends before cooking."
+    },
+    {
+        "vegetable": "Asparagus",
+        "cooking_method": "Roasting",
+        "cooking_time_minutes": 10,
+        "temperature_fahrenheit": 425,
+        "notes": "Sprinkle with lemon juice."
+    },
+    {
+        "vegetable": "Bell Peppers",
+        "cooking_method": "Roasting",
+        "cooking_time_minutes": 20,
+        "temperature_fahrenheit": 425,
+        "notes": "Roast whole, then peel skin."
+    },
+    {
+        "vegetable": "Green Beans",
+        "cooking_method": "Steaming",
+        "cooking_time_minutes": 5,
+        "temperature_fahrenheit": null,
+        "notes": "Keep them bright green."
+    }
+]
